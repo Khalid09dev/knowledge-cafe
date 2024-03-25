@@ -1,0 +1,48 @@
+    [
+        {
+        "ID": 123456,
+        "Cover": "https://i.postimg.cc/6q5JMQbj/cover.jpg",
+        "Title": "The Secret Garden",
+        "Author_Image": "author_image_1.jpg",
+        "Posted_Date": "2024-03-25",
+        "Reading_Time": "15 minutes",
+        "Hashtags": ["#fiction", "#classics", "#nature"]
+        },
+        {
+        "ID": 987654,
+        "Cover": "https://i.postimg.cc/xTgfLw8T/cover-1.png",
+        "Title": "The Lost City",
+        "Author_Image": "author_image_2.jpg",
+        "Posted_Date": "2024-03-24",
+        "Reading_Time": "20 minutes",
+        "Hashtags": ["#adventure", "#mystery", "#archaeology"]
+        },
+        {
+        "ID": 246810,
+        "Cover": "https://i.postimg.cc/C5Lt0Qgm/cover-2.png",
+        "Title": "Beyond the Horizon",
+        "Author_Image": "author_image_3.jpg",
+        "Posted_Date": "2024-03-23",
+        "Reading_Time": "25 minutes",
+        "Hashtags": ["#sci-fi", "#exploration", "#future"]
+        },
+        {
+        "ID": 135792,
+        "Cover": "https://i.postimg.cc/zB3K1CQT/cover-3.png",
+        "Title": "Echoes of Eternity",
+        "Author_Image": "author_image_4.jpg",
+        "Posted_Date": "2024-03-22",
+        "Reading_Time": "18 minutes",
+        "Hashtags": ["#fantasy", "#magic", "#prophecy"]
+        },
+        {
+        "ID": 369258,
+        "Cover": "https://i.postimg.cc/xTgfLw8T/cover-1.png",
+        "Title": "The Silent Witness",
+        "Author_Image": "author_image_5.jpg",
+        "Posted_Date": "2024-03-21",
+        "Reading_Time": "30 minutes",
+        "Hashtags": ["#crime", "#thriller", "#investigation"]
+        }
+    ]
+    
