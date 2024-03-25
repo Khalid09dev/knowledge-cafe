@@ -6,7 +6,7 @@
         "Author": "Firoz Khan",
         "Author_Image": "https://i.postimg.cc/CKqWN602/author-1.png",
         "Posted_Date": "2024-03-25",
-        "Reading_Time": "15 minutes",
+        "Reading_Time": "15",
         "Hashtags": ["#fiction", "#classics", "#nature"]
         },
         {
@@ -16,7 +16,7 @@
         "Author": "Saif Ali Khan",
         "Author_Image": "https://i.postimg.cc/bvg5YGxz/author-2.png",
         "Posted_Date": "2024-03-24",
-        "Reading_Time": "20 minutes",
+        "Reading_Time": "20",
         "Hashtags": ["#adventure", "#mystery", "#archaeology"]
         },
         {
@@ -26,7 +26,7 @@
         "Author": "Sara Ali Khan",
         "Author_Image": "https://i.postimg.cc/7YTYC4Qv/author-3.png",
         "Posted_Date": "2024-03-23",
-        "Reading_Time": "25 minutes",
+        "Reading_Time": "25",
         "Hashtags": ["#sci-fi", "#exploration", "#future"]
         },
         {
@@ -34,9 +34,9 @@
         "Cover": "https://i.postimg.cc/zB3K1CQT/cover-3.png",
         "Title": "Echoes of Eternity",
         "Author": "Haris Ali Khan",
-        "Author_Image": "https://i.postimg.cc/bvg5YGxz/author-2.png",
+        "Author_Image": "https://i.postimg.cc/bvg5YGxz/author-2.png`",
         "Posted_Date": "2024-03-22",
-        "Reading_Time": "18 minutes",
+        "Reading_Time": "18",
         "Hashtags": ["#fantasy", "#magic", "#prophecy"]
         },
         {
@@ -46,7 +46,7 @@
         "Author": "Shahrukh Khan",
         "Author_Image": "https://i.postimg.cc/7YTYC4Qv/author-3.png",
         "Posted_Date": "2024-03-21",
-        "Reading_Time": "30 minutes",
+        "Reading_Time": "30",
         "Hashtags": ["#crime", "#thriller", "#investigation"]
         }
     ]
